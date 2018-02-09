@@ -1,0 +1,8 @@
+node_modules
+dist
+lib
+*.log
+build
+test/build
+playground/build
+

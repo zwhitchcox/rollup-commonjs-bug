@@ -1,0 +1,1 @@
+{"version":3,"file":"output.js","sources":["hello.js"],"sourcesContent":["module.exports = {hello: 'hi'}\nconsole.log(typeof hello)\n"],"names":["module","exports","hello","console","log"],"mappings":";;;;;;;;AAAAA,OAAOC,OAAP,GAAiB,EAACC,OAAO,IAAR,EAAjB;AACAC,QAAQC,GAAR,QAAmBF,KAAnB,yCAAmBA,KAAnB"}
